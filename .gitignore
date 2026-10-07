@@ -27,3 +27,5 @@ venv/
 # Private/local notes
 PRIVATE/
 INTERNAL/
+
+.obsidian/
